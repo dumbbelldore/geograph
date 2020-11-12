@@ -1,2 +1,4 @@
-package org.darragh.geograph.elasticsearch;public class ElasticsearchTest {
+package org.darragh.geograph.elasticsearch;
+
+class ElasticsearchTest {
 }

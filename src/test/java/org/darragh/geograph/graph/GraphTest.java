@@ -1,4 +1,4 @@
-package org.darragh.geograph;
+package org.darragh.geograph.graph;
 
-public class GraphTest {
+class GraphTest {
 }
